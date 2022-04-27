@@ -309,7 +309,7 @@ function agriflex_minimal_footer() {
     $html .= '<li><a href="http://agrilife.tamu.edu/required-links/compact/">Compact with Texans</a></li>';
     $html .= '<li><a href="http://agrilife.tamu.edu/required-links/privacy/">Privacy and Security</a></li>';
     $html .= '<li><a href="http://itaccessibility.tamu.edu/">Accessibility Policy</a></li>';
-    $html .= '<li><a href="http://publishingext.dir.texas.gov/portal/internal/resources/DocumentLibrary/State%20Website%20Linking%20and%20Privacy%20Policy.pdf">State Link Policy</a></li>';
+    $html .= '<li><a href="https://dir.texas.gov/resource-library-item/state-website-linking-privacy-policy">State Link Policy</a></li>';
     $html .= '<li><a href="http://www.tsl.state.tx.us/trail">Statewide Search</a></li>';
     $html .= '<li><a href="http://agrilifeas.tamu.edu/hr/diversity/equal-opportunity-educational-programs/">Equal Opportunity</a></li>';
     $html .= '<li><a href="http://www.tamus.edu/veterans/">Veterans Benefits</a></li>';
